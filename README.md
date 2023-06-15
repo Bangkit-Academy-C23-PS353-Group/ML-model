@@ -7,6 +7,5 @@ The dataset used in this project is available [Kaggle Dataset](https://www.kaggl
 # Workflow
 Data Collection --> Data Preprocessing --> Data Split -->  Create the Model --> Convert to h5 --> Testing
 
-# Graphs
-![gambar](https://github.com/Bangkit-Academy-C23-PS353-Group/ML-model/assets/125778539/c9fddc85-9b50-40a3-82fb-4954b0ea25cd)
-
+# Training and Validation Curve
+![WhatsApp Image 2023-06-15 at 19 51 56](https://github.com/Bangkit-Academy-C23-PS353-Group/ML-model/assets/103240207/1a58bb2a-d5e2-4801-a305-d4f65a766dc5)
